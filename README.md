@@ -26,7 +26,7 @@ and also has custom gui. where the user can draw and classify which digit they d
 
 **Preview:**  
 > _Digit recognizer GUI example (prediction in action)_
-![Digit Recognizer GUI](images/digit_recognizer.png)  
+<img src="images/digit_recognizer.png" alt="Digit Recognizer GUI" width="400" height="300">
 
 ---
 
@@ -45,7 +45,7 @@ An interactive visualization of the Mandelbrot set. Where the user could zoom in
 
 Preview:
 > _mandelbrot_set 
-![ Mandelbrot Viewer](images/image.png)  
+<img src="images/image.png" alt="Digit Recognizer GUI" width="400" height="300">
 
 ---
 
@@ -60,7 +60,7 @@ A physics-based simulation of gravitational interactions between multiple bodies
 
 Preview:
 > _Gravitational simulation (orbit visualization)_
-![Gravitational Simulation](images/gravity_sim.png)  
+<img src="images/gravity_sim.png" alt="Digit Recognizer GUI" width="400" height="300">
 
 ---
 
